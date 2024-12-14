@@ -1,4 +1,4 @@
-# python data science for meh... programmers
+# Python data science for medium programmers (not begginers but medium)
 If you are following along and want to learn more about data science with python then you are at the right the right place!
 This is a course for windows and linux machines.
 here is where to install python:

@@ -6,3 +6,5 @@ here is where to install python:
 This is my recommended version but yeah install that.
 ## Day 1:
 Learn how to find items in a list using backtracing (and a bit of help from python with built-in list datatype index-es).
+## Day 2:
+Making a simple program to find the lenghts of words
